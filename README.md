@@ -28,8 +28,7 @@ Finished in 0.00075 seconds (files took 0.0839 seconds to load)
 ```
 
 To solve this test failure, create a local variable `greeting` in the `variable.rb` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
-'greeting' = "Hello World".
-run learn 
+
 
 ## Resources
 * [Learn to Program](https://pine.fm/LearnToProgram/chap_03.html)
